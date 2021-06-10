@@ -1,0 +1,78 @@
+2021-05-15 23:37:28,780 :INFO : test_shop :Landed URL is:https://rahulshettyacademy.com/angularpractice/shop
+2021-05-15 23:37:28,810 :INFO : test_shop :Mobile Name Fetched:iphone X
+2021-05-15 23:37:28,833 :INFO : test_shop :Mobile Name Fetched:Samsung Note 8
+2021-05-15 23:37:28,855 :INFO : test_shop :Mobile Name Fetched:Nokia Edge
+2021-05-15 23:37:28,873 :INFO : test_shop :Mobile Name Fetched:Blackberry
+2021-05-15 23:37:34,272 :INFO : test_shop :Message received at UI:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-15 23:37:39,954 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:37:39,954 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:37:39,954 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:37:40,433 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:37:40,433 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:37:40,433 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:37:40,433 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:39:48,328 :INFO : test_shop :Landed URL is:https://rahulshettyacademy.com/angularpractice/shop
+2021-05-15 23:39:48,357 :INFO : test_shop :Mobile Name Fetched:iphone X
+2021-05-15 23:39:48,379 :INFO : test_shop :Mobile Name Fetched:Samsung Note 8
+2021-05-15 23:39:48,403 :INFO : test_shop :Mobile Name Fetched:Nokia Edge
+2021-05-15 23:39:48,413 :INFO : test_shop :Mobile Name Fetched:Blackberry
+2021-05-15 23:39:53,797 :INFO : test_shop :Message received at UI:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-15 23:39:59,895 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:39:59,895 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:39:59,895 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:40:00,617 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:40:00,617 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:40:00,617 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-15 23:40:00,617 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:41:34,242 :INFO : test_shop :Landed URL is:https://rahulshettyacademy.com/angularpractice/
+2021-05-23 00:41:44,658 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:41:44,658 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:41:44,658 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:41:45,310 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:41:45,310 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:41:45,310 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:41:45,310 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:46:09,103 :INFO : test_shop :Landed URL is:https://rahulshettyacademy.com/angularpractice/shop
+2021-05-23 00:46:09,145 :INFO : test_shop :Mobile Name Fetched:iphone X
+2021-05-23 00:46:09,169 :INFO : test_shop :Mobile Name Fetched:Samsung Note 8
+2021-05-23 00:46:09,191 :INFO : test_shop :Mobile Name Fetched:Nokia Edge
+2021-05-23 00:46:09,212 :INFO : test_shop :Mobile Name Fetched:Blackberry
+2021-05-23 00:46:14,611 :INFO : test_shop :Message received at UI:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-23 00:46:22,002 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:46:22,002 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:46:22,002 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:46:22,770 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:46:22,770 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:46:22,770 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-23 00:46:22,770 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:46:45,103 :INFO : test_shop :Landed URL is:https://rahulshettyacademy.com/angularpractice/shop
+2021-05-28 22:46:45,163 :INFO : test_shop :Mobile Name Fetched:iphone X
+2021-05-28 22:46:45,214 :INFO : test_shop :Mobile Name Fetched:Samsung Note 8
+2021-05-28 22:46:45,283 :INFO : test_shop :Mobile Name Fetched:Nokia Edge
+2021-05-28 22:46:45,341 :INFO : test_shop :Mobile Name Fetched:Blackberry
+2021-05-28 22:46:51,157 :INFO : test_shop :Message received at UI:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-28 22:47:01,714 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:47:01,714 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:47:01,714 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:47:02,426 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:47:02,426 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:47:02,426 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:47:02,426 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:57:51,661 :INFO : test_shop :Landed URL is:https://rahulshettyacademy.com/angularpractice/shop
+2021-05-28 22:57:51,692 :INFO : test_shop :Mobile Name Fetched:iphone X
+2021-05-28 22:57:51,715 :INFO : test_shop :Mobile Name Fetched:Samsung Note 8
+2021-05-28 22:57:51,736 :INFO : test_shop :Mobile Name Fetched:Nokia Edge
+2021-05-28 22:57:51,753 :INFO : test_shop :Mobile Name Fetched:Blackberry
+2021-05-28 22:57:57,186 :INFO : test_shop :Message received at UI:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-28 22:58:03,282 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:58:03,282 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:58:03,282 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:58:03,953 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:58:03,953 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:58:03,953 :CRITICAL : test_home :UI REFRESHED!!
+2021-05-28 22:58:03,953 :CRITICAL : test_home :UI REFRESHED!!
