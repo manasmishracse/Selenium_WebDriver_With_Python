@@ -18,3 +18,7 @@ driver.get("https://automate.io")
 
 # To get Text DATA
 print(driver.find_element_by_css_selector("div[class='banner_left']").text)
+
+
+# To get Xpath from text
+# //TAGNAME[text()="XXX"]
